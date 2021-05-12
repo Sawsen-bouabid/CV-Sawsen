@@ -1,0 +1,28 @@
+h1 {color: rgba(166, 56, 194, 0.836);}
+
+h2 { color: rgb(12, 10, 12); background-color: hsl(202, 100%, 50%);}
+h3 {color: rgb(19, 153, 216);}
+
+td /* Toutes les cellules des tableaux... */
+{
+    border: 2px solid black; /* auront une bordure de 2px */
+}
+
+.imageflottante {
+    float:right;
+    }
+
+    body
+    {
+        background-color: rgba(245, 206, 153, 0.5); opacity: 1.5;
+        color: aliceblue
+      
+    ;
+        background-image: url("fond-haut-cv.png");background-attachment: scroll;
+        background-repeat: repeat;
+        background-position: top ;
+
+
+    
+    }
+ 
